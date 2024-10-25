@@ -311,6 +311,7 @@
 /Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiAppCSharpBasic1.pdb
 /Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiAppCSharpBasic1.genruntimeconfig.cache
 /Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/ref/MauiAppCSharpBasic1.dll
+/Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/MauiAppCSharpBasic1.sourcelink.json
 /Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.stamp
 /Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/nicha/dx212 /MauiAppCSharpBasic/MauiAppCSharpBasic1/MauiAppCSharpBasic1/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp
